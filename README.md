@@ -81,19 +81,6 @@ ncm D:\Download\ D:\Export\
 
 ---
 
-## 提示 / Tips / ヒント
-
-* 输出文件会自动保持原始文件名，只更改扩展名。
-  例如：
-
-  ```
-  input:  demo.ncm
-  output: demo.mp3
-  ```
-* 工具会自动检测 `.ncm` 文件类型（MP3 / FLAC），并支持多线程并行解密。
-
----
-
 ## Developer Info
 
 **NCM CLI**  
