@@ -76,7 +76,7 @@ ncm D:\Download\
 ### 批量处理整个文件夹并输出到指定目录
 
 ```bash
-ncm D:\Download\ -r -o D:\Export\
+ncm D:\Download\ D:\Export\
 ```
 
 ---
