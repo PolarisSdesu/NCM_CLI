@@ -6,7 +6,7 @@
 
 ## 安装 / Installation / インストール
 
-### 使用安装程序（推荐）
+### 使用安装程序
 下载并运行：
 ```
 ncm_setup.exe
@@ -102,7 +102,7 @@ ncm D:\Download\ D:\Export\
 
 ---
 
-## 开发信息 / Developer Info / 開発者情報
+## Developer Info
 
 **NCM CLI**  
 Developed with ❤️ in Rust  
